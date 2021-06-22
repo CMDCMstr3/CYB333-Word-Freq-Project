@@ -1,3 +1,10 @@
+#!/usr/bin/python3
+# CYB333: Final Course Project
+#Project Title: Word Frequency 
+#Author: CMDCMstr3
+#Date: June 22, 20121
+
+
 import string
 # Opens and reads text file.
 text = open("PythonMission.txt", "r") 
